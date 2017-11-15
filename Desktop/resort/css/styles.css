@@ -1,0 +1,23 @@
+html {
+ background: url(https://media0.giphy.com/media/yTYPHYDhHiJDq/200.webp#44-grid1);
+ background-position: center;
+ background-size: 750px;
+ }
+h1 {
+  color: #C21D00;
+  font-family: trattatello;
+  font-size: 110px;
+  text-align: center;
+}
+h2 {
+  color: #851901;
+  font-family: trattatello;
+  font-size: 60px;
+  text-align: center;
+}
+p {
+  color: #E7E7E7;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
